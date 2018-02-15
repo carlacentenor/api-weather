@@ -32,7 +32,7 @@ Utilizar la api de  Dark Sky y visualizar la información de pronostico del clim
 
 ### Versión Mobile
 
-![desktop](assets/docs/mobile.png);
+![desktop](assets/docs/mobile1.png);
 
 ![desktop](assets/docs/mobile2.png);
 
