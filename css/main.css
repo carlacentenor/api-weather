@@ -9,3 +9,23 @@ height: 80vh;
 .h20{
   height: 20vh;
 }
+
+.h10{
+  height: 10vh;
+}
+
+.h90{
+  height: 90vh;
+}
+
+.font-1{
+  font-size: 1.3em;
+}
+
+.icon-size{
+  font-size: 3em;
+}
+
+a{
+  text-decoration: none;
+}

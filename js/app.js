@@ -35,9 +35,9 @@ $(document).ready(function() {
     result.forEach((element, index) => {
       let template = `<div class = "row">
     <div class="col-2"><img class="w100" src="../assets/images/${element.icon}.png"></div>
-    <div class="col-6"><p>${days[index]}</p></div>
-    <div class="col-2"><p>${element.temperatureMin}°</p></div>
-    <div class="col-2"><p>${element.temperatureMax}°</p></div>
+    <div class="col-5"><p class="font-1">${days[index]}</p></div>
+    <div class="col-2"><p class="font-1">${element.temperatureMin}°</p></div>
+    <div class="col-2"><p class="font-1">${element.temperatureMax}°</p></div>
     </div>`;
       contentWeek.append(template);
     });
