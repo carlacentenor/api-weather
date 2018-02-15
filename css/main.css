@@ -10,7 +10,6 @@ height: 80vh;
   height: 20vh;
 }
 
-<<<<<<< HEAD
 .h10{
   height: 10vh;
 }
@@ -29,11 +28,4 @@ height: 80vh;
 
 a{
   text-decoration: none;
-=======
-body {
-  background: url("https://source.unsplash.com/random");
-  color: #fff;
-  font-size: 1.5rem;
-  text-shadow: 1rem;
->>>>>>> 9c475ff4f10c4d3ab7db33d03a5b1bd78e69d730
 }
