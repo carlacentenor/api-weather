@@ -65,3 +65,25 @@ $(document).ready(function() {
     }
   }
 });
+
+// (() => {
+
+//   const getImg = new XMLHttpRequest();
+//   getImg.onreadystatechange = function() {
+//     if (getImg.readyState === 4 && getImg.status === 200) {
+//       const data = this.responseText;
+//       // let dataArray = data.results;
+//       console.log(data);
+//       // resultLength = data.results.length;
+//       // getImg.onload = addPersonage(dataArray);
+//       getImg.onerror = handleError;
+//     }
+//     // getImg.send();
+//   };
+//   getImg.open("GET", `https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=2b171339aa0ec6e8582822c147ff69b4&tags=weather&format=json&1`);
+//   console.log('hi');
+// })();
+
+// handleError = error => {
+//   console.log(error);
+// };
