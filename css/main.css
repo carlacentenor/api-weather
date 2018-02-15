@@ -9,3 +9,10 @@ height: 80vh;
 .h20{
   height: 20vh;
 }
+
+body {
+  background: url("https://source.unsplash.com/random");
+  color: #fff;
+  font-size: 1.5rem;
+  text-shadow: 1rem;
+}
